@@ -1,8 +1,8 @@
 name: Due Date
 
 on:
-  schedule:
-    - cron:  '0 * * * *'
+  issues:
+    types: [opened, edited, deleted, closed, reopened]
 
 jobs:
   Ubuntu:
