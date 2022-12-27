@@ -1,4 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more informationfnf
+﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
+
 Console.WriteLine("Hello, World2!");
-Console.WriteLine("Master");
+Console.WriteLine("Feature");
+Console.WriteLine("Feature1");
+Console.WriteLine("Feature2");
