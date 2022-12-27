@@ -1,3 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more informationf
+﻿// See https://aka.ms/new-console-template for more informationfn
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World2!");
